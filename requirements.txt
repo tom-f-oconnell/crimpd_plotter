@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+tzlocal
+
+# may only be dev requirement if most plotting is non-interactive later
+# not sure if any default backends support interactive plotting, but maybe not?
+PyQt5
+
+# (dev requirements)
+ipdb
